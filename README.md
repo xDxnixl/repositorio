@@ -1,2 +1,2 @@
-# repositorio1
+# repositorio
 repositorio de ejemplo curso de programacion
